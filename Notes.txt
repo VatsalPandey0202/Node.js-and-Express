@@ -1,0 +1,3 @@
+"start": "ts-node app.ts",
+learn callbacks, event loop, promises, async-await
+course-api.com
